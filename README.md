@@ -5,3 +5,5 @@ Expense Tracker created with MongoDB, Express, React, and NodeJS. State managed 
 # Demo 
 
 http://expense-track.tools/ - If the custom domain doesn't work (https://eg-expense-tracker.herokuapp.com/)
+
+Thank you to TraversyMedia and the StackOverflow community!
